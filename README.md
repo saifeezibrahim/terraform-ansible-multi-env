@@ -148,12 +148,23 @@ terraform destroy --auto-approve
 
 ---
 
-## 📝 License
+## 🤝 Contributing
 
-MIT — For educational use.  
-**Feel free to fork, adapt, and play!**
+Contributions, suggestions, and corrections are welcome!  
+Feel free to fork and submit a pull request!
+
+## 📄 License
+
+MIT  Free for personal and educational use.
+
+## 🙋‍♂️ Maintained by Saifeez Ibrahim
+If you found this helpful, star ⭐ the repo or share it to help more people learn DevOps!
+
+Need help or want to connect? [Reach out on GitHub!](https://github.com/saifeezibrahim)
 
 ---
 
 > Made with ❤️ for the DevOps community.  
-> Learn, break things, automate, and have fun!
+> Learn, break things, automate and have fun!
+
+Happy learning!
