@@ -4,7 +4,8 @@
 
 ---
 
-![Project Diagram](images/Project-design.gif)
+![Project Diagram](terraform-ansible-multi-env-master/images/Project-design.gif)
+
 
 ---
 
