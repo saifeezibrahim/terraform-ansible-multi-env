@@ -139,15 +139,6 @@ terraform destroy --auto-approve
 
 ---
 
-## 📸 Screenshots
-
-![Terraform Apply](images/image3.png)
-![Instances Running](images/image6.png)
-![Ansible Playbook Output](images/image10.png)
-![Nginx Web Page](images/image11.png)
-
----
-
 ## 📚 Further Exploration
 
 - Dive into [`terraform/infra`](terraform/infra) for modular code examples
